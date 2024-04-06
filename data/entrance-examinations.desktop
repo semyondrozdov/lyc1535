@@ -10,4 +10,4 @@ Terminal=false
 Type=Application
 Version=1.0
 
-Exec=chromium-browser online1535.ru --incognito --new-window --proxy-server=proxy.lyc1535.ru:3128
+Exec=chromium-browser online1535.ru --incognito --new-window --proxy-pac-url="https://data.lyc1535.ru/data/pac.js"
