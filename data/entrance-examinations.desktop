@@ -1,0 +1,13 @@
+[Desktop Entry]
+
+Comment=Система управления обучением Лицея № 1535
+GenericName=Вступительные испытания в Лицей № 1535
+Icon=chromium-browser
+Name=Вступительные испытания
+
+StartupWMClass=Chromium-browser
+Terminal=false
+Type=Application
+Version=1.0
+
+Exec=chromium-browser online1535.ru --incognito --new-window --proxy-server=proxy.lyc1535.ru:3128
