@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=Система управления обучением Лицея № 1535
-Exec=chromium-browser online1535.ru --incognito --new-window --proxy-pac-url="https://static.lyc1535.ru/data/pac.js"
+Exec=chromium-browser online1535.ru --incognito --new-window --proxy-pac-url="https://static.lyc1535.ru/data/pac.js" --start-fullscreen
 GenericName=Вступительные испытания в Лицей № 1535
 Icon=chromium-browser
 Name=Вступительные испытания
